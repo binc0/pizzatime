@@ -1,0 +1,202 @@
+[
+ {
+   "pizza": "Margherita",
+   "ingredients": " Tomato sauce, mozzarella, and oregano"
+ },
+ {
+   "pizza": "Marinara",
+   "ingredients": " Tomato sauce, garlic and basil"
+ },
+ {
+   "pizza": "Quattro Stagioni",
+   "ingredients": " Tomato sauce, mozzarella, mushrooms, ham, artichokes, olives, and oregano"
+ },
+ {
+   "pizza": "Carbonara",
+   "ingredients": " Tomato sauce, mozzarella, parmesan, eggs, and bacon"
+ },
+ {
+   "pizza": "Frutti di Mare",
+   "ingredients": " Tomato sauce and seafood"
+ },
+ {
+   "pizza": "Quattro Formaggi",
+   "ingredients": " Tomato sauce, mozzarella, parmesan, gorgonzola cheese, artichokes, and oregano"
+ },
+ {
+   "pizza": "Crudo",
+   "ingredients": " Tomato sauce, mozzarella and Parma ham"
+ },
+ {
+   "pizza": "Napoletana or Napoli",
+   "ingredients": " Tomato sauce, mozzarella, oregano, anchovies"
+ },
+ {
+   "pizza": "Pugliese",
+   "ingredients": " Tomato sauce, mozzarella, oregano, and onions"
+ },
+ {
+   "pizza": "Montanara",
+   "ingredients": " Tomato sauce, mozzarella, mushrooms, pepperoni, and Stracchino (soft cheese)"
+ },
+ {
+   "pizza": "Emiliana",
+   "ingredients": " Tomato sauce, mozzarella, eggplant, boiled potatoes, and sausage"
+ },
+ {
+   "pizza": "Romana",
+   "ingredients": " Tomato sauce, mozzarella, anchovies, capers, and oregano"
+ },
+ {
+   "pizza": "Fattoria",
+   "ingredients": " Tomato sauce, mozzarella, peppers, peas, porchetta (Italian spit-roasted pork)"
+ },
+ {
+   "pizza": "Schiacciata",
+   "ingredients": " Olive oil and rosemary"
+ },
+ {
+   "pizza": "Prosciutto or Cardinale",
+   "ingredients": " Tomato sauce, mozzarella, ham, and oregano"
+ },
+ {
+   "pizza": "Americana",
+   "ingredients": " Tomato sauce, mozzarella, sausage and french fries"
+ },
+ {
+   "pizza": "Prosciutto e Funghi",
+   "ingredients": " Tomato sauce, mozzarella, ham, and mushrooms"
+ },
+ {
+   "pizza": "Braccio di Ferro",
+   "ingredients": " Mozzarella, spinach, ricotta cheese, and parmesan"
+ },
+ {
+   "pizza": "Sarda",
+   "ingredients": " Tomato sauce, mozzarella, pecorino cheese, and spicy salami"
+ },
+ {
+   "pizza": "Tonno",
+   "ingredients": " Tomato sauce, mozzarella, tuna, and onions"
+ },
+ {
+   "pizza": "Valtellina",
+   "ingredients": " Tomato sauce, mozzarella, bresaola, Parmesan flakes and rocket"
+ },
+ {
+   "pizza": "Gorgonzola",
+   "ingredients": " Tomato sauce, mozzarella, gorgonzola, and olives"
+ },
+ {
+   "pizza": "Calzone (folded pizza)",
+   "ingredients": " Tomato sauce, mozzarella, ham, mushrooms, artichokes, anchovies, and oregano"
+ },
+ {
+   "pizza": "Pizza al Pesto",
+   "ingredients": " Tomato, mozzarella, Genoese pesto, pine nuts, and olives"
+ },
+ {
+   "pizza": "Mediterranea",
+   "ingredients": " Tomato sauce, buffalo mozzarella, cherry tomatoes and pepper"
+ },
+ {
+   "pizza": "Ortolana",
+   "ingredients": " Tomato sauce, mozzarella, and assorted vegetables"
+ },
+ {
+   "pizza": "Diavola",
+   "ingredients": " Tomato sauce, mozzarella, spicy salami, and chilli pepper"
+ },
+ {
+   "pizza": "Rustica",
+   "ingredients": " Tomato sauce, mozzarella, gorgonzola cheese, and eggplants"
+ },
+ {
+   "pizza": "Contadina",
+   "ingredients": " Tomato sauce, mozzarella, asparagus, mushrooms, bacon, and parmesan"
+ },
+ {
+   "pizza": "Parmigiana",
+   "ingredients": " Tomato sauce, mozzarella, eggplants and parmesan flakes"
+ },
+ {
+   "pizza": "Capricciosa",
+   "ingredients": " Tomato sauce, mozzarella, ham, artichokes, mushrooms, and olives"
+ },
+ {
+   "pizza": "Ricotta e Spinaci",
+   "ingredients": " Tomato sauce, mozzarella, ricotta cheese, and spinach"
+ },
+ {
+   "pizza": "Mare e Monti",
+   "ingredients": " Mozzarella, tomato sauce, seafood and porcino mushrooms"
+ },
+ {
+   "pizza": "Padana",
+   "ingredients": " Tomato sauce, parmesan cheese, salami, zucchini, and polenta (boiled cornmeal)"
+ },
+ {
+   "pizza": "Tedesca",
+   "ingredients": " Tomato sauce, mozzarella, and Vienna Sausage"
+ },
+ {
+   "pizza": "Tirolese",
+   "ingredients": " Tomato sauce, mozzarella, gorgonzola cheese and speck"
+ },
+ {
+   "pizza": "Boscaiola",
+   "ingredients": " Tomato sauce, mozzarella, porcino mushrooms and bacon"
+ },
+ {
+   "pizza": "Campagnola",
+   "ingredients": " Tomato sauce, mozzarella, corn and sausage"
+ },
+ {
+   "pizza": "Vegetariana",
+   "ingredients": " Tomato sauce, mozzarella and a various vegetable"
+ },
+ {
+   "pizza": "Bufalina",
+   "ingredients": " Tomato sauce, Buffalo mozzarella, and oregano"
+ },
+ {
+   "pizza": "Fontana",
+   "ingredients": " Tomato sauce, mozzarella, gorgonzola cheese, radicchio, and parmesan"
+ },
+ {
+   "pizza": "Francescana",
+   "ingredients": " Tomato sauce, mozzarella, porcino mushrooms, ham, and parmesan"
+ },
+ {
+   "pizza": "Pizza tartufata",
+   "ingredients": " Mozzarella, truffle cream, and porcini mushrooms"
+ },
+ {
+   "pizza": "Tricolore",
+   "ingredients": " Mozzarella, bresaola, and parmesan flakes"
+ },
+ {
+   "pizza": "Valdostana",
+   "ingredients": " Tomato sauce, mozzarella, fontina cheese and bacon"
+ },
+ {
+   "pizza": "Caprese",
+   "ingredients": " Mozzarella and sliced ​​tomato"
+ },
+ {
+   "pizza": "Fiori di zucca",
+   "ingredients": " Mozzarella, courgette flower, anchovies and olive oil"
+ },
+ {
+   "pizza": "Bismarck",
+   "ingredients": " Tomato sauce, mozzarella, ham, and fried egg"
+ },
+ {
+   "pizza": "Funghi",
+   "ingredients": " Tomato sauce, mozzarella, mushrooms, parsley and olive oil"
+ },
+ {
+   "pizza": "Mimosa",
+   "ingredients": " Mozzarella, cream, ham and corn"
+ }
+]
